@@ -1,0 +1,20 @@
+## Interface: 16001
+## Title: |cffe8b84aLD -|r Poker
+## Notes: Texas Hold'em entre joueurs proches, dans une taverne. Pièces d'or fictives.
+## Notes-enUS: Texas Hold'em with nearby players, in a tavern. Fictional gold.
+## Author: Julien SCHMIDT - Linra Digital
+## Version: 1.0.1
+## IconTexture: Interface\AddOns\LD_Poker\Media\icon
+## SavedVariables: LDPokerDB
+## SavedVariablesPerCharacter: LDPokerCharDB
+
+Locale.lua
+Util.lua
+Cards.lua
+Engine.lua
+Bots.lua
+Bank.lua
+Net.lua
+UI.lua
+MinimapButton.lua
+Core.lua
